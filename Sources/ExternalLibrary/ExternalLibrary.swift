@@ -1,8 +1,8 @@
 public struct ExternalLibrary {
     public var text: String
     
-    public init {
-        var text = "Text from external library"
+    public init() {
+        text = "Text from external library"
     }
 }
 
