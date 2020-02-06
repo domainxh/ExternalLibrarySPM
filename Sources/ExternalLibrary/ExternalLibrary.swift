@@ -1,3 +1,5 @@
+import SwiftyJSON
+
 public struct ExternalLibrary {
     public var text: String
     
